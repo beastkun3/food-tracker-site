@@ -1,4 +1,4 @@
-# 📋 Smart Calorie Tracker
+# 📋 Yet-Another-Calorie-Tracker
 
 A lightweight, local-first web application to track daily calorie consumption, auto-learn frequently consumed foods, and synchronize data with a formatted Excel spreadsheet. It runs completely in the browser and permanently enforces the `DD/MM/YYYY` date format across all devices.
 
